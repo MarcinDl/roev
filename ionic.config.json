@@ -1,0 +1,7 @@
+{
+  "name": "roev-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
